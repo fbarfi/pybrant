@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it, and Brant (1990), as below."
+title: "pybrant: Brant's test of the proportional-odds assumption for statsmodels"
+authors:
+  - family-names: Arfi
+    given-names: Badredine
+version: 0.1.0
+date-released: 2026-11-08
+license: MIT
+repository-code: "https://github.com/fbarfi/pybrant"
+references:
+  - type: article
+    title: "Assessing Proportionality in the Proportional Odds Model for Ordinal Logistic Regression"
+    authors:
+      - family-names: Brant
+        given-names: Rollin
+    journal: "Biometrics"
+    volume: 46
+    issue: 4
+    start: 1171
+    end: 1178
+    year: 1990
